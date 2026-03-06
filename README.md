@@ -313,9 +313,6 @@ We ❤️ contributions! Here's how you can help:
 
 ---
 
-## 📜 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 <div align="center">
 
@@ -329,7 +326,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 **Star ⭐ this repository if you found it helpful!**
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/spamguard-ai?style=social)](https://github.com/yourusername/spamguard-ai/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/spamguard-ai?style=social)](https://github.com/yourusername/spamguard-ai/network/members)
+[![GitHub stars](https://img.shields.io/github/stars/yourusername/spamguard-ai?style=social)](https://github.com/Kaushal-pathak/spamguard-ai/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/yourusername/spamguard-ai?style=social)](https://github.com/kaushal-pathak/spamguard-ai/network/members)
 
 </div>
