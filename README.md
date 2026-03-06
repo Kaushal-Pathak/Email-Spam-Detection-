@@ -326,7 +326,4 @@ We ❤️ contributions! Here's how you can help:
 
 **Star ⭐ this repository if you found it helpful!**
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/spamguard-ai?style=social)](https://github.com/Kaushal-pathak/spamguard-ai/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/spamguard-ai?style=social)](https://github.com/kaushal-pathak/spamguard-ai/network/members)
-
 </div>
