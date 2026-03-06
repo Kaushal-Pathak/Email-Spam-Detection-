@@ -6,7 +6,6 @@
 
 [![Qt](https://img.shields.io/badge/Qt-6.x-41CD52?style=for-the-badge&logo=qt&logoColor=white)](https://www.qt.io/)
 [![C++](https://img.shields.io/badge/C++-14-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](http://makeapullrequest.com)
 
 **[Features](#-features) • [Demo](#-demo) • [Quick Start](#-quick-start) • [Documentation](#-documentation) • [Contributing](#-contributing)**
@@ -63,7 +62,7 @@
 <div align="center">
 
 ### Before Analysis
-![Input Screen](https://via.placeholder.com/700x400/1e293b/38bdf8?text=Paste+Your+Email+Content)
+![Input Screen](<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/3f0ea873-598c-4526-8d4a-e14a8e656f70" />)
 
 ### After Analysis
 ![Results Screen](https://via.placeholder.com/700x400/1e293b/ef4444?text=HIGH+RISK+%7C+85%25+Spam+Probability)
