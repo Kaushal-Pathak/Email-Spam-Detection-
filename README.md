@@ -4,15 +4,15 @@
 
 ### *Your Intelligent Shield Against Email Threats*
 
-[![Qt](https://img.shields.io/badge/Qt-6.x-41CD52?style=for-the-badge&logo=qt&logoColor=white)](https://www.qt.io/)
+[![Qt](https://img.shields.io/badge/Qt-6.5-41CD52?style=for-the-badge&logo=qt&logoColor=white)](https://www.qt.io/)
 [![C++](https://img.shields.io/badge/C++-14-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](http://makeapullrequest.com)
 
-**[Features](#-features) • [Demo](#-demo) • [Quick Start](#-quick-start) • [Documentation](#-documentation) • [Contributing](#-contributing)**
+**[Features](#-features) • [Quick Start](#-quick-start) • [Documentation](#-documentation) • [Contributing](#-contributing)**
 
 ---
 
-![SpamGuard AI Banner](https://via.placeholder.com/1200x400/0f172a/38bdf8?text=SpamGuard+AI+%7C+Intelligent+Email+Security)
+![SpamGuard AI]
 
 *Detect. Analyze. Protect.*
 
@@ -57,26 +57,12 @@
 
 ---
 
-## 🎬 Demo
-
-<div align="center">
-
-### Before Analysis
-![Input Screen](<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/3f0ea873-598c-4526-8d4a-e14a8e656f70" />)
-
-### After Analysis
-![Results Screen](https://via.placeholder.com/700x400/1e293b/ef4444?text=HIGH+RISK+%7C+85%25+Spam+Probability)
-
-</div>
-
----
-
 ## 🚀 Quick Start
 
 ### Prerequisites
 
 ```bash
-✅ Qt 6.x (or Qt 5.15+)
+✅ Qt 6.5 (or Qt 5.15+)
 ✅ Qt Creator
 ✅ C++14 Compiler
 ✅ 5 minutes of your time ⏱️
